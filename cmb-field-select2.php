@@ -4,7 +4,7 @@ Plugin Name: CMB2 Field Type: Select2
 Plugin URI: https://github.com/mustardBees/cmb-field-select2
 GitHub Plugin URI: https://github.com/mustardBees/cmb-field-select2
 Description: Select2 field type for CMB2.
-Version: 3.0.5
+Version: 3.0.6
 Author: Phil Wylie
 Author URI: https://www.philwylie.co.uk/
 License: GPLv2+
